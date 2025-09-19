@@ -1,3 +1,7 @@
 Exercice tp git
 Tentative de push la modification
+<<<<<<< HEAD
 Ceci est une modification locale
+=======
+Ceci est une modification distante
+>>>>>>> 97551dbe700c9d2b6f9fd3ce3e8d2942e84f73df
